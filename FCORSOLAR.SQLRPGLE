@@ -1,8 +1,8 @@
       * ------------------------------------------------------------------------
       * Programa...: FCORSOLAR
-      * Autor......: PersonalSoft S.A.S. - Oscar Martínez Fernández
-      * Fecha......: 2014-10-07
-      * Descripción: Mantenimiento Solicitud(Archivo SOLARC)
+      * Autor......: 
+      * Fecha......: 20220922
+      * Descripción: Mantenimiento Solicitud(Archivo SOLAR)
       * ------------------------------------------------------------------------
       * Metodo de creación: Se compila con 14 con los siguientes parámetros
       * COMMIT(*NONE) CLOSQLCSR(*ENDMOD) DBGVIEW(*SOURCE)
